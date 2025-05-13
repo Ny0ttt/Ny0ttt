@@ -63,6 +63,6 @@ Here are some ideas to get you started:
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Ny0ttt/Ny0ttt/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/Ny0ttt/Ny0ttt/output/snake.svg" alt="Snake animation" /> -->
 
 ###
